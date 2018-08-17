@@ -1,0 +1,16 @@
+{
+  "name": "typescript-training",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": "ssh://git@github.com/mafuyuk/typescript-training.git",
+  "author": "mafuyuk",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^4.4.2",
+    "typescript": "^3.0.1",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0"
+  }
+}
