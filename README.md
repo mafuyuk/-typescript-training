@@ -1,1 +1,1 @@
-# -typescript-training
+# Typescript Training
